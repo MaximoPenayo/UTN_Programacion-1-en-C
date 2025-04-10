@@ -1,10 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+
+//Penayo Maximo Joel
+
 /*Haga un programa que permita emular un juego de poker de alta-baja.
 El usuario debe adivinar el valor de una carta diciendo si es alta o baja
 y debe acertar si el valor de la carta es inferior a 7 (baja) o superior a 7 (alta) y si sale 7, pierde. 
-Al finalizar la ronda se debe mostrar la carta que salió. 
+Al finalizar la ronda se debe mostrar la carta que saliÃ³. 
 El juego sigue mientras el usuario acierta la carta ganadora. 
 Al perder se muestra la cantidad de puntos que van aumentando en dobles, es decir, inicia en uno, luego 2, luego 4, luego 8.
 Las cartas de poker van del 1 al 13. 
