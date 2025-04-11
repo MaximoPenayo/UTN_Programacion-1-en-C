@@ -1,8 +1,10 @@
 #include <stdio.h>
+//Penayo Maximo Joel
+
 /*Solicita la edad de una persona y clasifica en:
-Menor de edad (<18 años)
-Adulto (18-64 años)
-Adulto mayor (=65 años)
+Menor de edad (<18 aÃ±os)
+Adulto (18-64 aÃ±os)
+Adulto mayor (=65 aÃ±os)
 */
 
 int main() {
