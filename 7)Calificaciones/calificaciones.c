@@ -1,7 +1,9 @@
 #include <stdio.h>
 
-/*El programa debe pedir,  hasta que el usuario indique que ya no debe ingresar m·s notas,
- una nota (0-100) e indicar la calificaciÛn:
+//Penayo Maximo Joel
+
+/*El programa debe pedir,  hasta que el usuario indique que ya no debe ingresar m√°s notas,
+ una nota (0-100) e indicar la calificaci√≥n:
 90-100: Sobresaliente
 80-89: Muy Bueno
 70-79: Bueno
