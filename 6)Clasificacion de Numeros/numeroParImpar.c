@@ -1,5 +1,7 @@
 	#include <stdio.h>
 
+// Penayo Maximo Joel
+
 	int main(){
 		
 		int numero;
