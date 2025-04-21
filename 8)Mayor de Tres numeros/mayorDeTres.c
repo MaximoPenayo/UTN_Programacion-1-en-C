@@ -1,6 +1,6 @@
 #include <stdio.h>
-/*El programa debe solicitar tres números y mostrar cuál es el mayor.
-Si hay dos números iguales al mayor, indicarlo.
+/*El programa debe solicitar tres nÃºmeros y mostrar cuÃ¡l es el mayor.
+Si hay dos nÃºmeros iguales al mayor, indicarlo.
 */
 
 #include <stdio.h>
