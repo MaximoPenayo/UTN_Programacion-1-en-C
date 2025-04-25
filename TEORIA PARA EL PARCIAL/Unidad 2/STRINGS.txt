@@ -1,0 +1,5 @@
+STRINGS
+
+Una cadena de caractereses una secuencia ordenada de longitud finita de elementos que pertenecen
+a un ciero lenguaje formal o alfabeto analogas a una forma o a una oracion
+

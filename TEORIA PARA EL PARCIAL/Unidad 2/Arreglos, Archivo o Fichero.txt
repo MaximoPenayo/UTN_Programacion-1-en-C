@@ -1,0 +1,8 @@
+ARREGLOS
+
+Un arreglo se define como una coleccion finita, Homogenea y ordenada de elementos de un mismo tipo.
+
+Un Fichero o Archivo es una coleccion ordenada de datos que tienen entre si una relacion y que se almacenan
+de forma permanente en  un dispositivo de memoria no volatil
+
+
