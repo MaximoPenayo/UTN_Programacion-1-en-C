@@ -3,14 +3,14 @@
 
 
 /*	Escribe un programa en C que permita registrar las edades de varias personas
-	y luego muestre el promedio de edad, la edad más pequeña y la más alta.
+	y luego muestre el promedio de edad, la edad mÃ¡s pequeÃ±a y la mÃ¡s alta.
 	
 	El programa debe solicitar al usuario que ingrese edades una por una.
-	Si la edad ingresada es menor a 0, se debe mostrar un mensaje de error y pedir nuevamente una edad válida.
+	Si la edad ingresada es menor a 0, se debe mostrar un mensaje de error y pedir nuevamente una edad vÃ¡lida.
 	Si el usuario ingresa 0, el programa debe finalizar y mostrar:
 	El promedio de las edades ingresadas.
-	La edad más pequeña.
-	La edad más alta.*/
+	La edad mÃ¡s pequeÃ±a.
+	La edad mÃ¡s alta.*/
 	
 int main() {
 	
@@ -30,7 +30,7 @@ int main() {
 		scanf("%d",&edades);
 		
 		if(edades<0){
-			printf("¡Por favor seleccione una edad valida!\n");
+			printf("Â¡Por favor seleccione una edad valida!\n");
 			/*printf("Ingrese su edad: ");
 			scanf("%d",&edades);*/
 		}else if(edades==0){
