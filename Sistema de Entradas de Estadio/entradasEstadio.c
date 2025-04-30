@@ -37,7 +37,7 @@ int main(){
 	case 'A': printf("Has Seleccionado Sol General\n");
 	printf("Seleccione cantidad de entradas: ");
 	if (scanf("%d", &cantEntradas) != 1 || cantEntradas < 1) {
-		printf("¡Ingrese un numero mayor a 0!.\n");
+		printf("Â¡Ingrese un numero mayor a 0!.\n");
 		return 1;
 	}
 	total= cantEntradas * solGen;
@@ -46,7 +46,7 @@ int main(){
 	case 'B': printf("Has Seleccionado Sol Preferente\n");
 	printf("Seleccione cantidad de entradas: ");
 	if (scanf("%d", &cantEntradas) != 1 || cantEntradas < 1) {
-		printf("¡Ingrese un numero mayor a 0!.\n");
+		printf("Â¡Ingrese un numero mayor a 0!.\n");
 		return 1;
 	}
 	total= cantEntradas * solPref;
@@ -55,7 +55,7 @@ int main(){
 	case 'C': printf("Has Seleccionado Sombra\n");
 	printf("Seleccione cantidad de entradas: ");
 	if (scanf("%d", &cantEntradas) != 1 || cantEntradas < 1) {
-		printf("¡Ingrese un numero mayor a 0!.\n");
+		printf("Â¡Ingrese un numero mayor a 0!.\n");
 		return 1;
 	}
 	total= cantEntradas * sombra;
@@ -64,7 +64,7 @@ int main(){
 	case 'D': printf("Has Seleccionado Tribuna\n");
 	printf("Seleccione cantidad de entradas: ");
 	if (scanf("%d", &cantEntradas) != 1 || cantEntradas < 1) {
-		printf("¡Ingrese un numero mayor a 0!.\n");
+		printf("Â¡Ingrese un numero mayor a 0!.\n");
 		return 1;
 	}
 	total= cantEntradas * trib;
@@ -73,14 +73,14 @@ int main(){
 	case 'E': printf("Has Seleccionado Platea\n");
 	printf("Seleccione cantidad de entradas: ");
 	if (scanf("%d", &cantEntradas) != 1 || cantEntradas < 1) {
-		printf("¡Ingrese un numero mayor a 0!.\n");
+		printf("Â¡Ingrese un numero mayor a 0!.\n");
 		return 1;
 	}
 	total= cantEntradas * plat;
 	break;
 	
 	default:
-		printf("¡Sector desconocido!");
+		printf("Â¡Sector desconocido!");
 	}
 	
 	printf("*************************************************\n");
