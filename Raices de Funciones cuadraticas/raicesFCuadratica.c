@@ -29,8 +29,8 @@ int main() {
 		x1 = (-b + sqrt(r)) / (2 * a);
 		x2 = (-b - sqrt(r)) / (2 * a);
 		
-		printf("La Primera Raiz ser· x1= %.2f \n", x1);
-		printf("La Segunda Raiz ser· x2= %.2f \n", x2);
+		printf("La Primera Raiz ser√° x1= %.2f \n", x1);
+		printf("La Segunda Raiz ser√° x2= %.2f \n", x2);
 	}
 	
 	return 0;
