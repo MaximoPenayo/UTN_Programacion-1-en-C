@@ -1,4 +1,4 @@
-
+ 
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -27,7 +27,7 @@ int main() {
 		printf("-----------------------------------------------------------\n");
 		
 		if(carta == 7){
-			printf("¡Has perdido! La carta es 7\n");
+			printf("Â¡Has perdido! La carta es 7\n");
 			break;
 		}
 		
@@ -60,7 +60,7 @@ int main() {
 			puntos *= 2;
 
 		}else{
-			printf("¡Has perdido! La carta era %c \n",cartaLet);
+			printf("Â¡Has perdido! La carta era %c \n",cartaLet);
 			break;
 		}
 	}
