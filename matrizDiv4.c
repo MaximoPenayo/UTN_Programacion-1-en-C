@@ -1,6 +1,6 @@
 /*Dada una matriz cuadrada de numeros enteros 4x4
 Se pide: cargar la matriz. mostrar el resultado en forma de matriz
-la matriz se carga usando sentencias repetitivas o iterativas
+la matriz se carga usando sentencias repetitivas o iterativas 
 las dimensiones de la matriz se deben especificar con DEFINE
 usar procedimiento para cargar la matriz.
 cargar un numero divisible por 4 de la matriz en un arreglo.
