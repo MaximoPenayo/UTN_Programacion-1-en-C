@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
+ 
 //Penayo Maximo Joel
 //LEGAJO: 30412
 
